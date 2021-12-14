@@ -2,7 +2,7 @@ goal=[[0,0,0],[0,0,0],[0,0,0]]
 present=[[0,0,0],[0,0,0],[0,0,0]]
 temp=[[0,0,0],[0,0,0],[0,0,0]]
 
-
+#display function
 def display(a):
     for i in range(3):
         for j in range(3):
