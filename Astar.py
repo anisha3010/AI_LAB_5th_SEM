@@ -1,3 +1,4 @@
+#g heuristic
 def euclid(a,x,y):
     return math.sqrt(math.pow((3-x),2)+math.pow((3-y),2))
 
