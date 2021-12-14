@@ -22,7 +22,7 @@ if choice==2:
     a=[[0,0,0],[0,0,0],[0,0,0]]
     win=0
    
-   
+   #winning
     while(win==0):
         b=int(input("make your move"))
         c=int((b-1)/3)
