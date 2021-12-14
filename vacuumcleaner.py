@@ -3,7 +3,7 @@ choice=int(input("1-simple reflex,2-model based"))
 if choice==1:
     print("welcome to simple reflex vacuum cleaner")
     print("2 rooms, A and B")
-
+    #no internal state
     room=input("enter current room")
     print("Switching on vacuum cleaner")
     ch=1
